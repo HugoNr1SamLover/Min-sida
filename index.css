@@ -1,0 +1,20 @@
+.box{height: 170px;
+width: 750px;
+border: solid black 1.5px;
+margin-left: 250px;
+}
+img{
+    border: solid coral 2px ;
+    margin-left: 500px;
+}
+.box1{background-color:beige;}
+.box2{background-color:bisque;}
+.box3{background-color:burlywood;}
+.box4{background-color: darkkhaki;}
+p{font-family:'Times New Roman', Times, serif; line-height: 20px;
+}
+h1,h2{font-family: 'Times New Roman', Times, serif;
+}
+h1{margin-left: 500px}
+.TEX2{margin-left: 315px;}
+.TEX1{margin-left: 360px;}
